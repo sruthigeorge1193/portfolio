@@ -40,10 +40,7 @@ Investigating Windows logs and detecting suspicious behavior
 Packet capture inspection and threat identification  
 [View Project](network-analysis/README.md)
 
-### Secure Code Review (.NET)
-Security assessment of sample web application  
-[View Project](secure-code-review/README.md)
-
+### 01-Control-Assessment
 ---
 
 ## Certifications
